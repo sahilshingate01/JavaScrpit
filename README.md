@@ -3,7 +3,6 @@
 This repository contains my daily practice and examples in **JavaScript**, covering fundamental and advanced concepts.  
 Each file demonstrates a specific topic or concept to help strengthen understanding and coding skills.
 
----
 
 ## 📚 Topics Covered
 
